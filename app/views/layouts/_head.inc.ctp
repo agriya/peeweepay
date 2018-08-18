@@ -1,0 +1,51 @@
+<?php
+	$html->css('reset', null, null, false);	
+	$html->css('jquery.uploader', null, null, false);
+	$html->css('jquery-ui-1.7.1.custom', null, null, false);
+    $html->css('svwp_style', null, null, false);
+	$html->css('ui.slider.extras', null, null, false);
+	$html->css('switch.checkbox', null, null, false);
+	$html->css('colorbox', null, null, false);
+    $html->css('tagit', null, null, false);
+	$html->css('set.default.style', null, null, false);
+	$html->css('skin.style', null, null, false);
+	$html->css('jquery.carousellite', null, null, false);
+	$html->css('sexy-combo', null, null, false);
+	$html->css('sexy', null, null, false);
+	$html->css('jquery.bt-ie-fix', null, null, false);
+		$html->css('style960', null, null, false);
+	$html->css('style', null, null, false);
+	if (isset($javascript)):
+		$javascript->codeBlock('var cfg = ' . $javascript->object($js_vars_for_layout) , array('inline' => false));
+		$javascript->link('libs/jquery', false);
+		$javascript->link('libs/jquery.form', false);
+		$javascript->link('libs/jquery.blockUI', false);
+		$javascript->link('libs/jquery.livequery', false);
+		$javascript->link('libs/jquery.metadata', false);
+		$javascript->link('libs/jquery.uploader', false);
+		$javascript->link('libs/AC_RunActiveContent', false);
+		$javascript->link('libs/jquery.autocomplete', false);
+		$javascript->link('libs/jquery.fuploader', false);
+		$javascript->link('libs/jquery-ui-personalized', false);
+		$javascript->link('libs/jquery.corner', false);
+		$javascript->link('libs/jquery.flash', false);
+        $javascript->link('libs/jquery.overlabel', false);
+		$javascript->link('libs/jquery.switch.checkbox', false);
+	    $javascript->link('libs/jquery.slideViewerPro.1.0', false);
+		$javascript->link('libs/jquery.carousellite', false);
+		$javascript->link('libs/jquery.clippy', false);	
+		$javascript->link('libs/jquery.geocode', false);
+		$javascript->link('libs/jquery.colorbox', false);
+		$javascript->link('libs/jquery.tagit', false);		
+        $javascript->link('libs/markitup/jquery.markitup', false);
+		$javascript->link('libs/markitup/sets/default/set', false);
+		$javascript->link('libs/jquery.sexy-combo', false);
+		$javascript->link('libs/jquery.cookie', false);
+		$javascript->link('libs/browserdetect', false);
+		$javascript->link('libs/selectToUISlider.jQuery', false);	
+		$javascript->link('http://platform.twitter.com/widgets.js', false);
+		$javascript->link('iepngfix_tilebg', false);
+    	$javascript->link('common', false);
+		
+    endif;
+?>

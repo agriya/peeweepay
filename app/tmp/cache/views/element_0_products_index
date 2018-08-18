@@ -1,0 +1,31 @@
+<div class="js-response">
+<p class="page-counter">
+Page 1 of 1, showing 1 records out of 1 total, starting on record 1, ending on 1</p>
+<ol class="list dashboard-list clearfix">
+            <li class="clearfix">
+              <div class="product-description-left-block">
+            <div class="product-img">
+			
+			    <a href="/2b7"><img src="/img/small_big_thumb/ProductPhoto/882.a02234a69af9b947c50bac75d23cbc5f.jpg" class="" alt="[Bild: Test Title]" title="Test Title" width="168" height="118" /></a>                
+                  				  </div>
+                    <p class="price-amount-block">
+                <span class="c">€</span><span class="c">10.00</span>				</p>
+				</div>
+			 <div class="product-description-right-block grid_9 omega alpha">
+                <h4><a href="/2b7"><span class="c">Test Title</span></a></h4>
+				<div class="product-description"><span class="c1">Descro[topm</span></div>
+				<div class="product-description">Page views: 5</div>
+				<div class="product-description">Sold quantity: 0</div>
+				<div class="action-block">
+				<a href="/products/edit/527/1d8908895b66bfdde84289593927f174" title="Edit">Edit</a>                <a href="/products/delete/527/bfaeed3fceeca584265f1a64c67f4082" title="Delete">Delete</a>                </div>
+                </div>
+				</li>
+				</ol>
+<div class="js-pagination">
+<div class="paging">
+<span class="prev">&laquo; Prev</span>
+<span class="next">Next &raquo;</span>
+</div>
+	
+</div>
+</div>

@@ -1,0 +1,24 @@
+<h3><span class="c">Johnson</span>'s weitere Produkte:</h3>
+<ol class="product-list clearfix">
+	                <li class="clearfix">
+	         <div class="seller-img">
+				<a href="/2ae" class="tool-tip" title="Classic Wallet"><img src="/img/normal_thumb/ProductPhoto/818.2a8dd483642e687b7b8cbc6d4c4d3070.jpg" class="" alt="[Bild: Classic Wallet]" title="Classic Wallet" width="75" height="60" /></a> 
+			  </div>
+	          <div class="input text required">
+				<label for="caption"></label>
+				<input type="text"  value="€10.00" id="caption" />
+			 </div>
+			<p class="seller-desc">Classic Wallet</p>
+			</li>
+	              <li class="clearfix">
+	         <div class="seller-img">
+				<a href="/2ad" class="tool-tip" title="PANASONIC t41-8GB"><img src="/img/normal_thumb/ProductPhoto/816.193bf598357ac42977242d8de783639d.jpg" class="" alt="[Bild: PANASONIC t41-8GB]" title="PANASONIC t41-8GB" width="75" height="60" /></a> 
+			  </div>
+	          <div class="input text required">
+				<label for="caption"></label>
+				<input type="text"  value="€10.00" id="caption" />
+			 </div>
+			<p class="seller-desc">PANASONIC t4...</p>
+			</li>
+	   	
+</ol>

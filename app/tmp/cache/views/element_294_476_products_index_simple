@@ -1,0 +1,14 @@
+<h3><span class="c">Wright</span>'s weitere Produkte:</h3>
+<ol class="product-list clearfix">
+	                <li class="clearfix">
+	         <div class="seller-img">
+				<a href="/2ad" class="tool-tip" title="PANASONIC t41-8GB"><img src="/img/normal_thumb/ProductPhoto/816.193bf598357ac42977242d8de783639d.jpg" class="" alt="[Bild: PANASONIC t41-8GB]" title="PANASONIC t41-8GB" width="75" height="60" /></a> 
+			  </div>
+	          <div class="input text required">
+				<label for="caption"></label>
+				<input type="text"  value="€10.00" id="caption" />
+			 </div>
+			<p class="seller-desc">PANASONIC t4...</p>
+			</li>
+	   	
+</ol>

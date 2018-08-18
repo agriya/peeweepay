@@ -1,0 +1,2 @@
+REM qot --input-file=qot.sql --input-query="SELECT * FROM videos WHERE title = 'foo'" --info --propose=merged-index
+"D:\Program Files\xampp\mysql\qot\qot"  --input-file="..\..\..\app\tmp\qot.sql" --input-query=%1 --info --propose=merged-index

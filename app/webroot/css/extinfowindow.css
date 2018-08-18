@@ -1,0 +1,17 @@
+#simple_example_window{
+  width: 90px;
+  height: 100px;
+}
+#simple_example_window_contents{
+  background-color: #FFF;
+}
+#simple_example_window_beak{
+  width: 28px;
+  height: 20px;
+  
+}
+#simple_example_window_tl, #simple_example_window_tr, #simple_example_window_bl, #simple_example_window_br,
+#simple_example_window_t,#simple_example_window_l,#simple_example_window_r,#simple_example_window_b{
+  height: 0px;
+  width: 0px;
+}

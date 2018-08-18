@@ -1,0 +1,34 @@
+<h3><span class="c">Choo Train</span>'s weitere Produkte:</h3>
+<ol class="product-list clearfix">
+	                <li class="clearfix">
+	         <div class="seller-img">
+				<a href="/28F" class="tool-tip" title="Buddhist Tour Taiwan..."><img src="/img/normal_thumb/ProductPhoto/684.2ba30cc3ca99916aadcbf83423ebbd41.jpg" class="" alt="[Bild: Buddhist Tour Taiwan...]" title="Buddhist Tour Taiwan..." width="75" height="60" /></a> 
+			  </div>
+	          <div class="input text required">
+				<label for="caption"></label>
+				<input type="text"  value="$800.00" id="caption" />
+			 </div>
+			<p class="seller-desc">Buddhist Tou...</p>
+			</li>
+	              <li class="clearfix">
+	         <div class="seller-img">
+				<a href="/28A" class="tool-tip" title="Screen Capture"><img src="/img/normal_thumb/ProductPhoto/675.5363c7f328701ac9f485af93696e3fb2.jpg" class="" alt="[Bild: Screen Capture]" title="Screen Capture" width="75" height="60" /></a> 
+			  </div>
+	          <div class="input text required">
+				<label for="caption"></label>
+				<input type="text"  value="$19.90" id="caption" />
+			 </div>
+			<p class="seller-desc">Screen Capture</p>
+			</li>
+	              <li class="clearfix">
+	         <div class="seller-img">
+				<a href="/28z" class="tool-tip" title="LG INFINIA TV"><img src="/img/normal_thumb/ProductPhoto/673.19b044cafd832af5fc78810f4d546ff5.jpg" class="" alt="[Bild: LG INFINIA TV]" title="LG INFINIA TV" width="75" height="60" /></a> 
+			  </div>
+	          <div class="input text required">
+				<label for="caption"></label>
+				<input type="text"  value="$740.00" id="caption" />
+			 </div>
+			<p class="seller-desc">LG INFINIA TV</p>
+			</li>
+	   	
+</ol>

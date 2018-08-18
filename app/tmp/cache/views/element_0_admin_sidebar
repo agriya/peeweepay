@@ -1,0 +1,48 @@
+<h5 class="hidden-info">Admin side links</h5>
+<ul class="admin-links">
+     	<li ><a href="/admin" title="Site Stats">Site Stats</a></li>	
+		<li >
+		<a href="/admin/users" title="Users">Users</a>	</li>
+	<li>
+		<span>Products</span>
+				<ul class="admin-sub-links">
+			<li  class="active">
+				<a href="/admin/products" title="Products">Products</a>			</li>	
+						<li ><a href="/admin/abuse_reports" title="Abuse Reports">Abuse Reports</a></li>
+						<li ><a href="/admin/spam_reports" title="Spam Reports">Spam Reports</a></li>
+        	        	<li ><a href="/admin/contact_sellers" title="Seller Contacts">Seller Contacts</a></li>
+        </ul>
+    </li>
+	<li>
+		<span>Payment</span>		
+		<ul class="admin-sub-links">
+						<li ><a href="/admin/payment_gateways" title="Payment Gateways">Payment Gateways</a></li>
+						<li ><a href="/admin/transactions" title="Transactions">Transactions</a></li>
+		</ul>
+   </li>
+   <li >
+        <h4>Tools</h4>
+        <ul class="admin-sub-links">
+                        <li ><a href="/admin/pages/display/tools" title="Tools" class="admin-sidmenu">Tools</a></li>
+        </ul>
+	</li>
+	<li>
+		<span>Masters</span>		
+		<ul class="admin-sub-links">
+						<li ><a href="/admin/settings" title="Settings">Settings</a></li>
+						<li ><a href="/admin/email_templates" title="Email Templates">Email Templates</a></li>
+						<li ><a href="/admin/pages" title="Manage Static Pages">Manage Static Pages</a></li>
+						<li ><a href="/admin/translations" title="Translations">Translations</a></li>
+						<li ><a href="/admin/languages" title="Languages">Languages</a></li>
+						<li ><a href="/admin/countries" title="Countries">Countries</a></li>					
+						<li ><a href="/admin/currencies" title="Currencies">Currencies</a></li>
+		</ul>
+	</li>
+	<li>
+		<span>Diagnostics (Developer purpose only)</span>
+		<ul class="admin-sub-links">
+  						<li ><a href="/admin/users/logs" title="Debug &amp; Error Log">Debug &amp; Error Log</a></li>
+						<li ><a href="/admin/adaptive_transaction_logs" title="Adaptive Transaction Log">Adaptive Transaction Log</a></li>
+		</ul>
+	</li>
+</ul>

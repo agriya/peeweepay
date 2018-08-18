@@ -1,0 +1,39 @@
+#jCarousel .carousel {
+	padding:10px 0 0;
+	margin:0 0 0 5px;
+	position:relative;
+}
+#jCarousel .carousel .jCarouselLite {
+	float:left;
+	left:-5000px;
+	position:relative;
+	visibility:hidden;
+}
+#jCarousel .carousel ul {
+	margin:0;
+}
+#jCarousel .carousel li img, #jCarousel .carousel li p {
+	background-color:#FFFFFF;
+	height:70px;
+	width:110px;
+}
+#jCarousel .carousel li span {
+}
+#jCarousel .widget img {
+	cursor:pointer;
+}
+#jCarousel .mid {
+	height:300px;
+	margin-left:80px;
+	width:400px;
+}
+#jCarousel .vertical {
+	margin-left:170px;
+}
+#jCarousel .vertical .jCarouselLite {
+	width:170px;
+}
+#jCarousel .imageSlider li img, #jCarousel .imageSlider li p, #jCarousel .imageSliderExt li img, #jCarousel .imageSliderExt li p {
+	height:300px;
+	width:400px;
+}

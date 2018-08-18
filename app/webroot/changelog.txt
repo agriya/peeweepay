@@ -1,0 +1,491 @@
+tinypay - Change Log
+
+tinypay - 1.0b5
+===============
+
+Fifth beta version released on DEC 28, 2011 (rev 1658)
+
+
+tinypay - 1.0a27
+================
+
+Twenty Seventh alpha version released on DEC 28, 2011 (rev 1658)
+
+- 0152668: [+Enhancement] License Integration to tinypay (anandam_023ac09)
+
+tinypay - 1.0a26
+================
+
+Twenty sixth alpha version released on Aug 06, 2011 (rev 1631)
+
+- 0145323: [+Enhancement] Admin stats caching and refresh option (arovindhan_144at11)
+- 0145324: [+Enhancement] Diagnostics sub menus - for admin side bar (arovindhan_144at11)
+- 0145325: [+Enhancement] Missing table indexing need to index (arovindhan_144at11)
+
+tinypay - 1.0b4
+===============
+
+Fourth beta version released on Mar 25, 2011 (rev 1621)
+
+
+tinypay - 1.0a25
+================
+
+Twenty-fifth alpha version released on Mar 25, 2011 (rev 1621)
+
+- 0143104: [-Bug PHP] google map search issue (sakthivel_135at10)
+- 0143099: [+Enhancement] facebook OAuth2.0 protocal upgration facebook check (sakthivel_135at10)
+- 0143100: [-Bug PHP] image upload issue (sakthivel_135at10)
+- 0143101: [-Bug Logic] home page - browser title PeeweePay | Quickly build store, quickly sell through social media - projects/add - Peeweepay | P (sakthivel_135at10)
+- 0143102: [-Bug CSS] "Acceptable Use Policy" link color (sakthivel_135at10)
+
+tinypay - 1.0b3
+===============
+
+Third beta version released on Mar 18, 2011 (rev 1577)
+
+
+tinypay - 1.0a24
+================
+
+Twenty-fourth alpha version released on Mar 17, 2011 (rev 1576)
+
+- 0141637: [+Enhancement] facebook like and tweet option, need to integrate Addthis code. (boopathi_026ac09)
+- 0141639: [+Enhancement] Need facebook comment need to integrate (boopathi_026ac09)
+- 0141640: [-Bug PHP] Facebook like error need to fix, when two like button in a page (boopathi_026ac09)
+- 0141641: [-Bug PHP] when facebook like, random image posted in facebook wall, should post correct image (boopathi_026ac09)
+- 0141642: [+Enhancement] Need to change marker icon for new style (boopathi_026ac09)
+- 0141643: [-Bug PHP] Map not display when location search in product listing page, It should display correctly (boopathi_026ac09)
+- 0141644: [+Enhancement] In map, iframe should be remove from info window. (anandam_023ac09)
+
+tinypay - 1.0b2
+===============
+
+Second beta version released on Mar 04, 2011 (rev 1550)
+
+
+tinypay - 1.0a23
+================
+
+Twentieth Third alpha version released on Mar 04, 2011 (rev 1550)
+
+- 0140924: [+Feature Core] language switching needed for user end. (boopathi_026ac09)
+- 0140630: [-Bug CSS] [QA][Product] - Horizontal scrollbar get displaying in product view page in Opera (josephine_065at09)
+- 0140653: [-Bug CSS] [QA][Productedit] - Product edit page design get collapsed (josephine_065at09)
+- 0140623: [-Bug CSS] [QA][Home] - Fav icon not csslized properly and round corner is not proper (josephine_065at09)
+- 0140651: [-Bug CSS] [QA][Productadd] - Uploaded image postion is not proper (josephine_065at09)
+- 0140635: [-Bug CSS] [QA][Product] - After clicking on the field, field get hides in IE (josephine_065at09)
+- 0140643: [-Bug CSS] [QA] - Max Price alignment is not proper in Safari (josephine_065at09)
+- 0140633: [-Bug CSS] [QA][Product] - While displaying error message, lightbox content alignment is not proper (josephine_065at09)
+- 0140638: [-Bug CSS] [QA][Product] - Buttton name alignment is not proper in IE (josephine_065at09)
+- 0140639: [-Bug CSS] [QA][Product] - User detail alignment is not proper in Product view page (josephine_065at09)
+- 0140641: [-Bug CSS] [QA][Product] - Paypalbutton not displaying in Buy page in IE (josephine_065at09)
+- 0140637: [-Bug CSS] [QA][Product] - Share options alignment is not proper (josephine_065at09)
+- 0140640: [-Bug CSS] [QA][Product] - Buy page light box content alignment is not proper (josephine_065at09)
+- 0140636: [-Bug CSS] [QA][Product] - Image alignment is not proper in Product view page (josephine_065at09)
+- 0140632: [-Bug CSS] [QA][Product] - F-Like button not displaying in IE (josephine_065at09)
+- 0140634: [-Bug CSS] [QA][Product] - Button alignment is not proper (josephine_065at09)
+- 0140642: [-Bug CSS] [QA] - Button not displaying properly in Map (josephine_065at09)
+- 0140628: [-Bug CSS] [QA] - Alignment is not proper in search results page (josephine_065at09)
+- 0140627: [-Bug CSS] [QA]- Unnecessary space present (josephine_065at09)
+- 0140626: [-Bug CSS] [QA] - Drop down box width is not proper (josephine_065at09)
+- 0140621: [-Bug CSS] [QA][Home] - Font size not like in Mock Up (josephine_065at09)
+- 0140617: [-Bug CSS] [QA][Home] - Space is not proper (josephine_065at09)
+- 0140619: [-Bug CSS] [QA][Home] - Footer link alignment is not proper (josephine_065at09)
+- 0140622: [-Bug CSS] [QA][Home] - Link alignment should be proper (josephine_065at09)
+- 0140629: [-Bug CSS] [QA] - Letter should start from middle of the input box (josephine_065at09)
+- 0140581: [-Bug CSS] [QA][Home]-Link is present outside the button (josephine_065at09)
+- 0140646: [-Bug CSS] [QA][Productadd] - How it works light box alignment is not proper (josephine_065at09)
+- 0140644: [-Bug CSS] [QA][Productadd] - Start selling button broken in IE (josephine_065at09)
+- 0140648: [-Bug CSS] [QA][Productadd] - Fields get overlapping (josephine_065at09)
+- 0140647: [-Bug CSS] [QA][Productadd] - Radio button and label name alignment is not proper in IE (josephine_065at09)
+- 0140645: [-Bug CSS] [QA][Productadd] - Delete icon not displaying in IE (josephine_065at09)
+- 0140620: [-Bug CSS] [QA][Home] - Button name not displaying properly in IE (josephine_065at09)
+- 0140655: [-Bug CSS] [QA][Admin] - Side links alignment is not proper in Users listing page (josephine_065at09)
+- 0140657: [-Bug CSS] [QA][Admin] - Count information alignment is not proper (josephine_065at09)
+- 0140658: [-Bug CSS] [QA][Admin] - Tabs alignment is not proper (josephine_065at09)
+- 0140659: [-Bug CSS] [QA][Admin] - Site slogan missing in admin side (josephine_065at09)
+- 0140656: [-Bug CSS] [QA][Admin] - Edit user page, fields and label name allignment is not proper (josephine_065at09)
+
+tinypay - 1.0a22
+================
+
+Twentieth Second alpha version released on Feb 23, 2011 (rev 1394)
+
+- 0139565: [-Bug Unexpected Output] peeweepay paypal help tip in home page (usha_111at09)
+- 0140343: [+Enhancement] fine tune work needed for new design (josephine_065at09)
+- 0140340: [+Enhancement] How it works page need to added. (usha_111at09)
+- 0140342: [+Enhancement->CSS/Design] New design need to integrate (usha_111at09)
+
+tinypay - 1.0a21
+================
+
+Twentieth First alpha version released on Jan 31, 2011 (rev 1268)
+
+- 0138206: [+Enhancement] google map zoom control changed (sakthivel_135at10)
+- 0138205: [-Bug JavaScript] Shipping cost has not displayed in buy page. (sakthivel_135at10)
+- 0137249: [-Bug Logic] [QA]peeweepay.dev.agriya.com - Giving a location in redirect in map is not working.
+- 0137255: [-Bug Logic] [QA]peeweepay.dev.agriya.com/25D - Tag is not get added
+- 0137248: [-Bug PHP] [QA]/page/press - Press link is leads a error page
+- 0132975: [-Bug CSS] [QA]-Update button alignment is not proper (vinothraja_091at09)
+- 0132925: [-Bug CSS] [QA]-User unable to click the map. (vinothraja_091at09)
+- 0132804: [-Bug CSS] [QA]-Horizontal scroll bar is coming. (saranya_127act10)
+- 0132384: [-Bug CSS] [QA]-Button is not proper in all pages in opera (vinothraja_091at09)
+- 0129927: [-Bug CSS] [QA]-Scroll bar should not present (vinothraja_091at09)
+
+tinypay - 1.0a20
+================
+
+Twentieth alpha version released on Nov 30, 2010 (rev 1262)
+
+- 0136737: [+Enhancement] Piracy handling (boopathi_026ac09)
+
+tinypay - 1.0a19
+================
+
+Nineteenth alpha version released on Nov 09, 2010 (rev 1215)
+
+- 0130235: [-Bug PHP] [QA][Admin]/users-Verified/Notverified count displayed is not correct (usha_111at09)
+- 0133198: [-Bug PHP] [QA]-Products count are not displaying. (aravindan_111act10)
+- 0133205: [-Bug PHP] [QA][FEEDBACK]-Currency symbol placement is not based on country. (aravindan_111act10)
+- 0133204: [-Bug PHP] [QA][FEEDBACK]-Price should be separated by comma. (aravindan_111act10)
+- 0133203: [-Bug PHP] [QA]-tiny pay is displaying instead of micropay. (aravindan_111act10)
+- 0133202: [-Bug PHP] [QA]-User is unable to get the other products which does not has the image. (aravindan_111act10)
+- 0132923: [-Bug PHP] [QA]-Product image update redirects to blank page. (sakthivel_135at10)
+- 0132931: [-Bug PHP] [QA]-Incorrect verified/unverified count is displaying in admin side. (sakthivel_135at10)
+- 0132926: [-Bug PHP] [QA]-Can not buy the other currency products except dollar. (sakthivel_135at10)
+- 0132928: [-Bug PHP] [QA]-If the user changes the quantity from "Unlimited" to "single" price are displaying in minus. (sakthivel_135at10)
+- 0132386: [-Bug Logic] [QA]/admin/users/edit/151-Admin can edit the product count of the user (sakthivel_135at10)
+- 0132920: [-Bug PHP] [QA]-Help text is not disappearing. (sakthivel_135at10)
+- 0132921: [-Bug PHP] [QA]-Verified product is not displaying in rolling view. (sakthivel_135at10)
+- 0132922: [-Bug PHP] [QA]-Profile image is not updating. (sakthivel_135at10)
+- 0132929: [-Bug PHP] [QA]- Incorrect tags count are displaying. (sakthivel_135at10)
+- 0132933: [-Bug PHP] [QA]-View transaction leads to error page. (sakthivel_135at10)
+- 0132934: [-Bug PHP] [QA]-Buyer name and address are not displaying for "Unlimited" quantity product. (sakthivel_135at10)
+- 0132936: [-Bug PHP] [QA]-Spam report is displaying for deleted product. (sakthivel_135at10)
+- 0132807: [-Bug PHP] [QA]- "Must have a file" filter option is not working. (sakthivel_135at10)
+- 0132809: [-Bug PHP] [QA]-There is no reply option for the person who contacted the seller. (sakthivel_135at10)
+- 0126772: [-Bug CSS] [QA]-Like count has not displayed properly (sakthivel_135at10)
+- 0129907: [-Bug PHP] [QA]-Uploaded images has not displayed (sakthivel_135at10)
+- 0126744: [-Bug PHP] [QA]-Connect throuth twitter account, leads to an error page (sakthivel_135at10)
+- 0132940: [-Bug Logic] [QA]-Only three currencies are displaying in site status (sakthivel_135at10)
+- 0132937: [-Bug PHP] [QA]-Verified/Unverified option should not present for the admin (sakthivel_135at10)
+- 0132941: [-Bug PHP] [QA]-Product not sold intimation has not been intimated in facebook.. (sakthivel_135at10)
+- 0132805: [-Bug CSS] [QA]-Delete design is overlapping with the "Add More" design. (saranya_127act10)
+- 0132803: [-Bug PHP] [QA]-RSS is opening in the same tab. (aravindan_111act10)
+- 0132808: [-Bug CSS] [QA]-Pop up size differs from image to image. (boopathi_026ac09)
+- 0130242: [-Bug PHP] [QA]-Admin can not log into the site in Maintenance mode (usha_111at09)
+- 0129934: [+Enhancement] [QA][Admin]-Selected link should get highlight (usha_111at09)
+- 0130243: [-Bug PHP] [QA]-From email address displayed is not proper (usha_111at09)
+- 0131940: [-Bug Unexpected Output] [QA]-Query? (usha_111at09)
+- 0130233: [-Bug Logic] [QA]-Product column should not present (usha_111at09)
+- 0129933: [-Bug PHP] [QA]-Site name should display properly (usha_111at09)
+- 0132382: [-Bug PHP] [QA]/products.rss-Rss link and Xml link should work properly (usha_111at09)
+- 0132381: [+Enhancement] [QA]/2a-XML link in product view page, should open in new tab (usha_111at09)
+- 0129922: [-Bug CSS] [QA]-Design issue (saranya_127act10)
+- 0132750: [+Enhancement] payment gateway flow, payment fee settings added in settings -> products (sakthivel_135at10)
+- 0129935: [-Bug CSS] [QA][Admin]/translations-Link names has not displayed (saranya_127act10)
+- 0132748: [-Bug PHP] non european countriess removed (sakthivel_135at10)
+- 0132747: [+Enhancement] Adaptive transaction log changed as like in fiverrUltra (sakthivel_135at10)
+- 0132746: [+Enhancement] IPN delay alternate method added. (sakthivel_135at10)
+
+tinypay - 1.0a18
+================
+
+Eighteenth alpha version released on Oct 12, 2010 (rev 1127)
+
+- 0131954: [-Bug CSS] [QA]/products/buy-Design issue (saranya_127act10)
+- 0132385: [-Bug PHP] [QA]/admin/adaptive_transaction_log/1-Adaptive Tansaction log view link leads to error page (aravindan_111act10)
+- 0132111: [-Bug PHP] [QA]-Design issue (vinothraja_091at09)
+- 0131933: [-Bug PHP] [QA]-Acceptable policy link redirects to an error page (boopathi_026ac09)
+- 0131945: [-Bug PHP] [QA]-Page not opened properly (boopathi_026ac09)
+- 0126654: [-Bug PHP] [QA]-Unable to buy a product (sakthivel_135at10)
+- 0132383: [-Bug PHP] [QA]-Contact seller mail is not sent to the seller (boopathi_026ac09)
+- 0132574: [-Bug PHP] Removed charity option from side - back end (sakthivel_135at10)
+- 0132575: [-Bug PHP] Removed charity option from side - admin end (aravindan_111act10)
+- 0132521: [-Bug PHP] Caption edit problem for project photo (boopathi_026ac09)
+- 0132522: [-Bug PHP] Title display need to correct for product photos (boopathi_026ac09)
+- 0132523: [-Bug PHP] After buying a product, it is not shown as "sold" I can buy it again - client issue (boopathi_026ac09)
+- 0132524: [-Bug PHP] Payment success page redirect to error page (boopathi_026ac09)
+- 0132525: [-Bug PHP] fractional amount is round for currency conversion (boopathi_026ac09)
+
+tinypay - 1.0a17
+================
+
+Seventeenth alpha version released on Oct 15, 2010 (rev 1103)
+
+- 0129925: [-Bug CSS] [QA]/page/term-and-conditions-Style and design of the page shoule get improve (boopathi_026ac09)
+- 0129901: [-Bug CSS] [QA]/products/edit-Page style and design should get improve (vinothraja_091at09)
+- 0132366: [-Bug CSS] QR Code: yellow color tip need to correct (sakthivel_135at10)
+- 0132357: [-Bug CSS] Powered by MicroPay - logo (vinothraja_091at09)
+- 0132356: [-Bug CSS] color box width for contact us, Abuse Report and Spam Report (vinothraja_091at09)
+- 0132355: [-Bug CSS] tweet, flike alignment problem in g-chrome browser (vinothraja_091at09)
+- 0132354: [-Bug CSS] Get transparent paypal image (vinothraja_091at09)
+- 0132353: [+Enhancement] - Disqus -> Facebook comments (sakthivel_135at10)
+- 0132351: [-Bug PHP] Amount rounding issue to paypal (sakthivel_135at10)
+- 0132344: [+Enhancement] reply to email need to removed (sakthivel_135at10)
+- 0132343: [-Bug PHP] In verification mail ## ## content need to re remove (sakthivel_135at10)
+- 0132341: [+Enhancement] news latter need to remove from email template (sakthivel_135at10)
+- 0132345: [+Enhancement] email template change corrections (sakthivel_135at10)
+- 0132348: [-Bug PHP] Paypal connection does not work (we tried different paypal accounts) and says something like “paypal account redistricted erro (sakthivel_135at10)
+- 0132347: [-Bug JavaScript] tool tip problem (sakthivel_135at10)
+- 0132346: [-Bug CSS] product view page -> image alignment need center (vinothraja_091at09)
+- 0132349: [+Enhancement] When the uploading process requires you to connect to gravatar, we would like to have facebook connect feature and the possibili (sakthivel_135at10)
+- 0132342: [-Bug CSS] Dashboard page style issue (vinothraja_091at09)
+- 0132007: [+Enhancement] cCurrency hover for other currenct type modified. (aravindan_111act10)
+- 0131995: [-Bug PHP] colspan wrong in product view page for admin (product stats) (aravindan_111act10)
+- 0131991: [-Bug PHP] gravatar - image size - we can resize through url (aravindan_111act10)
+- 0131993: [-Bug PHP] - Captcha tool tip wrong (two words) (aravindan_111act10)
+- 0131994: [-Bug PHP] colspan wrong in product view page for admin (product stats) (aravindan_111act10)
+- 0132000: [-Bug PHP] EXTRA OPTIONS We would like to fix a different price range (the range should be “zero…..250….more”) (aravindan_111act10)
+- 0132001: [+Enhancement] Embed page is too slow (aravindan_111act10)
+- 0131999: [+Enhancement] Facebook & Twitter - create necessary accounts - addded (aravindan_111act10)
+- 0131998: [+Enhancement] Remove link to http://micropay.dev.agriya.com/subscriptions/add [^] (aravindan_111act10)
+- 0131997: [+Enhancement] In the homepage, found link to http://twitter.com/simplysellit [^] ?? (aravindan_111act10)
+
+tinypay - 1.0a16
+================
+
+Sixteenth alpha version released on Oct 08, 2010 (rev 1039)
+
+- 0131868: [-Bug PHP] We would like to remove the comics that shows up whenever you pass the mouse pointer on the logo (boopathi_026ac09)
+- 0131869: [-Bug PHP] Automatic re-size feature of uploaded pictures is needed (boopathi_026ac09)
+- 0131871: [-Bug PHP] Language translation for Italian and spanish (boopathi_026ac09)
+- 0131873: [-Bug PHP] Status page for Terms (boopathi_026ac09)
+- 0131874: [-Bug PHP] Page for privacy policy (boopathi_026ac09)
+- 0131876: [-Bug PHP] Need to change paypal button in order confirm page (vinothraja_091at09)
+- 0131877: [-Bug CSS] Need to change "Buy now" button in view page. (vinothraja_091at09)
+- 0131875: [-Bug PHP] Page for "Acceptable Use Policy" (boopathi_026ac09)
+- 0131867: [-Bug PHP] Buy now frame is not properly sized (saranya_127act10)
+
+tinypay - 1.0a15
+================
+
+Fifteenth alpha version released on Sep 22, 2010 (rev 1009)
+
+- 0130827: [-Bug PHP] Need to correct _target for some links. (boopathi_026ac09)
+- 0130843: [-Bug PHP] Remove Tinypay work from site (boopathi_026ac09)
+- 0130845: [-Bug PHP] ALT missing for banner image (boopathi_026ac09)
+- 0130847: [-Bug PHP] Need to fix width and height for embed view (boopathi_026ac09)
+- 0130852: [-Bug PHP] More details need to show in product view page - Spams, abuse and seller contacts (boopathi_026ac09)
+- 0130857: [-Bug PHP] Google map search not working (boopathi_026ac09)
+- 0130825: [-Bug PHP] Need to maintain normal view count and embed view count for product view (beautlin_108ac10)
+- 0130849: [-Bug CSS] Need to fix style for admin login page (vinothraja_091at09)
+
+tinypay - 1.0a14
+================
+
+Fourteenth alpha version released on Sep 21, 2010 (rev 968)
+
+- 0130634: [+Enhancement] code beautified (beautlin_108ac10)
+- 0130628: [+Enhancement] dns -> host - field name change (beautlin_108ac10)
+- 0130631: [+Enhancement] check unnecessary models (boopathi_026ac09)
+- 0130632: [+Enhancement] check element/requestAction duration (boopathi_026ac09)
+- 0130630: [+Enhancement] check foreign key indexes (aravindan_111act10)
+- 0130629: [+Enhancement] check indexing - especially on lat & long fields (aravindan_111act10)
+- 0130627: [+Enhancement] .htaccess changes (aravindan_111act10)
+- 0130626: [+Enhancement] Twitter & Facebook - product add tweet post in site account (aravindan_111act10)
+- 0130625: [-Bug PHP] settings spelling mistake (sakthivel_135at10)
+- 0130624: [+Enhancement] sold quantity count added in dashboard (sakthivel_135at10)
+- 0130623: [+Enhancement] page views added in dashboard (sakthivel_135at10)
+- 0130622: [+Enhancement] embed product using iframe (sakthivel_135at10)
+- 0130621: [+Enhancement] tooltip - animation (sakthivel_135at10)
+- 0130620: [+Enhancement] transaction view added in admin site (sakthivel_135at10)
+- 0130619: [+Enhancement] adaptive transaction log added in admin (sakthivel_135at10)
+- 0130618: [+Enhancement] masters grouping for admin side bar (sakthivel_135at10)
+- 0130617: [+Enhancement] No need to display Twitter and Facebook fields in user profile edit (sakthivel_135at10)
+- 0130616: [-Bug PHP] email template description info added in admin edit (sakthivel_135at10)
+
+tinypay - 1.0a13
+================
+
+Thirteenth alpha version released on Sep 15, 2010 (rev 930)
+
+- 0129889: [-Bug PHP] [QA]-Name field should validate properly to accept space (sakthivel_135at10)
+- 0129890: [+Enhancement] [QA]-Link should present as per the clone site (sakthivel_135at10)
+- 0129905: [-Bug PHP] [QA]-Data displayed in edit product page is not proper (sakthivel_135at10)
+- 0129942: [-Bug PHP] [QA][Admin]/products-Product quantity displays as -1 if unlimited option selected (sakthivel_135at10)
+- 0129936: [-Bug PHP] [QA][Admin]//translations-Unable to add new translation (sakthivel_135at10)
+- 0130191: [+Enhancement] more action added for all pages in admin side (sakthivel_135at10)
+- 0130193: [+Enhancement] product view page google map type added in settings (sakthivel_135at10)
+- 0130194: [+Enhancement] report spam changed to spam report (sakthivel_135at10)
+- 0130195: [+Enhancement] report abuse changed to abuse reports (sakthivel_135at10)
+- 0130196: [+Enhancement] auto detection fields added for abuses, spam, contact seller section (sakthivel_135at10)
+- 0130182: [-Bug PHP] email templates changes (sakthivel_135at10)
+- 0130190: [+Enhancement] unwanted settings category commented (sakthivel_135at10)
+- 0130189: [+Enhancement] product views added in admin stats (sakthivel_135at10)
+- 0130188: [+Enhancement] transaction page shipping amount grouped to seller (sakthivel_135at10)
+- 0130187: [+Enhancement] abuse reports, spam reports, contact seller admin view changes (sakthivel_135at10)
+- 0130186: [+Enhancement] product suspend/ unsuspend added in admin index (sakthivel_135at10)
+- 0130184: [+Enhancement] shipment cost map changes for world wide (sakthivel_135at10)
+- 0130183: [+Enhancement] user edit option added in admin side (sakthivel_135at10)
+- 0130181: [-Bug PHP] Google map search issue (sakthivel_135at10)
+- 0129944: [+Enhancement] product admin index page changes (sakthivel_135at10)
+- 0129941: [+Enhancement] currency enable / disable added (sakthivel_135at10)
+- 0129940: [+Enhancement] Detecting auto user deatils section added (sakthivel_135at10)
+- 0129939: [+Enhancement] Admin Transaction stats changed (sakthivel_135at10)
+- 0129950: [+Enhancement] Unwanted admin transaction field list removed (sakthivel_135at10)
+- 0129904: [-Bug PHP] [QA]-Unable to buy a product (sakthivel_135at10)
+
+tinypay - 1.0a12
+================
+
+Twelfth alpha version released on Sep 09, 2010 (rev 790)
+
+- 0129856: [-Bug JavaScript] js selector added, livequery removed for unwanted selectors (sakthivel_135at10)
+- 0129855: [+Enhancement->CSS/Design] css added for product add/ edit pages (sakthivel_135at10)
+- 0129854: [+Enhancement] settings changes in admin (sakthivel_135at10)
+- 0129853: [+Enhancement] captcha replaced with new dev1base captcha (sakthivel_135at10)
+- 0129857: [+Enhancement] shipment counter cache added in product table (sakthivel_135at10)
+- 0129742: [+Enhancement] Sexy combo box added (sakthivel_135at10)
+- 0129741: [+Enhancement] Product upload file position changed, switch added for hide and show (sakthivel_135at10)
+- 0129740: [+Enhancement] Shipment section completed (sakthivel_135at10)
+- 0129739: [+Enhancement] Google map search by zoom or drag methods added (sakthivel_135at10)
+- 0129743: [+Enhancement] Shipment cost map added in product view page (sakthivel_135at10)
+
+tinypay - 1.0a11
+================
+
+Eleventh alpha version released on Sep 06, 2010 (rev 693)
+
+- 0128342: [+Enhancement] [QA]-No option to redirect to admin side (sakthivel_135at10)
+- 0129542: [+Enhancement] Newsletter subscription added (sakthivel_135at10)
+- 0129543: [+Enhancement] jquery uploader layout changed (sakthivel_135at10)
+- 0129544: [+Enhancement] charity section changes to transfer money to charity account (sakthivel_135at10)
+- 0129545: [+Enhancement] auto detecting user's country completed (sakthivel_135at10)
+- 0129546: [+Enhancement] version 3 google map added (sakthivel_135at10)
+- 0129547: [+Enhancement] currency wise transaction stats added (sakthivel_135at10)
+- 0126746: [-Bug PHP] [QA]-Unable to buy the product (sakthivel_135at10)
+
+tinypay - 1.0a10
+================
+
+Tenth alpha version released on Sep 02, 2010 (rev 656)
+
+- 0129203: [+Enhancement] new design integration (sakthivel_135at10)
+- 0129191: [+Enhancement] charity category section added (sakthivel_135at10)
+- 0129192: [+Enhancement] charity section changes (sakthivel_135at10)
+- 0129194: [+Enhancement] currency added in transaction table (sakthivel_135at10)
+- 0129197: [+Enhancement] jcarouselite slide added for product auto scroll section (sakthivel_135at10)
+- 0129200: [+Enhancement] jquery uploader added for product image section and preview (sakthivel_135at10)
+
+tinypay - 1.0a9
+===============
+
+Ninth alpha version released on Aug 25, 2010 (rev 574)
+
+- 0126644: [-Bug PHP] [QA]-Static page links redirects to error page (sakthivel_135at10)
+- 0128346: [-Bug Logic] [QA][Admin]/report_spams-Product link redirects to an error page (sakthivel_135at10)
+- 0128403: [-Bug PHP] Admin - product spam / abuse marked as flag (sakthivel_135at10)
+- 0128402: [-Bug PHP] Admin - spam / abuse count fixed (sakthivel_135at10)
+- 0128401: [+Enhancement] seller RSS feed title changed (sakthivel_135at10)
+- 0128400: [+Enhancement] Product Add/ Edit Zoom level added (sakthivel_135at10)
+- 0128399: [+Enhancement] Adaptive Primary account setting added in admin site (sakthivel_135at10)
+- 0128398: [+Enhancement] Embed product url added in product view page (sakthivel_135at10)
+- 0128397: [+Enhancement] copy clipboard added in product view page (sakthivel_135at10)
+- 0128404: [-Bug PHP] Admin - transaction list changes (sakthivel_135at10)
+
+tinypay - 1.0a8
+===============
+
+Seventh alpha version released on Aug 24, 2010 (rev 529)
+
+- 0128268: [+Enhancement] User side changes (sakthivel_135at10)
+- 0128282: [+Enhancement] [User] - Donate to charity: return false added (sakthivel_135at10)
+- 0128283: [+Enhancement] [User] - color box close button fixed (sakthivel_135at10)
+- 0128284: [+Enhancement] [User] - heart icon added in product index page (sakthivel_135at10)
+- 0128285: [+Enhancement] [User] - qr code preview added in tool tip (sakthivel_135at10)
+- 0128286: [+Enhancement] [User] - product view page xml error fixed (sakthivel_135at10)
+- 0128287: [+Enhancement] [User] - buy now page changes (sakthivel_135at10)
+- 0128288: [+Enhancement] [User] - other product: title displays only when user have more than one products (sakthivel_135at10)
+- 0128289: [+Enhancement] [User] - product view page Short URL (sakthivel_135at10)
+- 0128290: [+Enhancement] [User] - download icon alignment (sakthivel_135at10)
+- 0128281: [+Enhancement] [User] - % will be donated to: - space added (sakthivel_135at10)
+- 0128280: [+Enhancement] [User] - disconnect confirmation added (sakthivel_135at10)
+- 0128278: [+Enhancement] [Admin] - users section (sakthivel_135at10)
+- 0128269: [+Enhancement] admin side changes (sakthivel_135at10)
+- 0128270: [+Enhancement] [Admin] - translation section changes (sakthivel_135at10)
+- 0128271: [+Enhancement] [Admin] - admin stats changes (sakthivel_135at10)
+- 0128272: [+Enhancement] [Admin] - contact seller filter added (sakthivel_135at10)
+- 0128273: [+Enhancement] [Admin] - report spam filter added (sakthivel_135at10)
+- 0128274: [+Enhancement] [Admin] - filter added in report abuses (sakthivel_135at10)
+- 0128275: [+Enhancement] [Admin] - filter added in transaction (sakthivel_135at10)
+- 0128276: [+Enhancement] [Admin] - adaptive credential added in payment gateway settings (sakthivel_135at10)
+- 0128277: [+Enhancement] [Admin] - product section (sakthivel_135at10)
+- 0128292: [+Enhancement] [User] - Buy page (sakthivel_135at10)
+
+tinypay - 1.0a7
+===============
+
+Seventh alpha version released on Aug 18, 2010 (rev 475)
+
+- 0127452: [+Enhancement] connect web service page (sakthivel_135at10)
+- 0127453: [+Enhancement] google map added in the product view page (sakthivel_135at10)
+- 0127454: [+Enhancement] search extra options (sakthivel_135at10)
+
+tinypay - 1.0a6
+===============
+
+Sixth alpha version released on Aug 17, 2010 (rev 443)
+
+- 0127363: [+Enhancement] javascript works - calculations (sakthivel_135at10)
+- 0127362: [+Enhancement] javascript works - color box (sakthivel_135at10)
+- 0127359: [+Enhancement] javascript works - google map (sakthivel_135at10)
+- 0127360: [+Enhancement] javascript works - adding tag (sakthivel_135at10)
+- 0127361: [+Enhancement] javascript works - markitup (sakthivel_135at10)
+- 0127358: [+Enhancement] javascript works - charity slider (sakthivel_135at10)
+- 0126937: [+Enhancement] download product file (sakthivel_135at10)
+- 0126941: [-Bug PHP] facebook issue (sakthivel_135at10)
+- 0126945: [+Enhancement] Transaction list in admin (sakthivel_135at10)
+
+tinypay - 1.0a5
+===============
+
+Fifth alpha version released on Aug 12, 2010 (rev 290)
+
+- 0126741: [+Enhancement] [QA]-Data displayed is not proper (sakthivel_135at10)
+- 0126740: [-Bug PHP] [QA][Admin]/users-Data displayed is not proper (sakthivel_135at10)
+- 0126739: [-Bug PHP] [QA][Admin]-Leads to an error page (sakthivel_135at10)
+- 0126738: [-Bug PHP] [QA]-Mail content is not proper (sakthivel_135at10)
+- 0126796: [+Enhancement] new design implementation (sakthivel_135at10)
+- 0126797: [+Enhancement] contact us page added (sakthivel_135at10)
+- 0126771: [-Bug Logic] [QA]-Instead of the total quantity count, should display the quantity left (sakthivel_135at10)
+
+tinypay - 1.0a4
+===============
+
+Fourth alpha version released on Aug 10, 2010 (rev 255)
+
+- 0126473: [+Enhancement] short URL (sakthivel_135at10)
+- 0126474: [+Enhancement->CSS/Design] Gravatar Seller Image (sakthivel_135at10)
+- 0126475: [+Enhancement] Status update (sakthivel_135at10)
+
+tinypay - 1.0a3
+===============
+
+Third alpha version released on Aug 09, 2010 (rev 225)
+
+- 0126225: [+Enhancement] Adaptive payment (sakthivel_135at10)
+- 0126228: [+Enhancement] Payment Mails (sakthivel_135at10)
+
+tinypay - 1.0a2
+===============
+
+Second alpha version released on Aug 06, 2010 (rev 189)
+
+- 0125776: [+Enhancement] Manage User Dashboard (sakthivel_135at10)
+- 0125777: [+Enhancement] Connect Web Services (sakthivel_135at10)
+- 0125778: [+Enhancement] User can add multiple Product (sakthivel_135at10)
+
+tinypay - 1.0a1
+===============
+
+First alpha version released on Aug 05, 2010 (rev 166)
+
+- 0125638: [+Enhancement] Add product page (sakthivel_135at10)
+- 0125639: [+Enhancement] view product page (sakthivel_135at10)
+- 0125640: [+Enhancement] Report abuse in product view page (sakthivel_135at10)
+- 0125641: [+Enhancement] Report spam in product view page (sakthivel_135at10)
+- 0125642: [+Enhancement] Edit , Delete Product (sakthivel_135at10)
+- 0125644: [+Enhancement] Admin Section Management (sakthivel_135at10)
+- 0125645: [+Enhancement] product view page contact seller (sakthivel_135at10)
